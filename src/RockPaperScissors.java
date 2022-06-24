@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class RockPaperScissors {
 
     private User user;
-    private int sad;
     private Computer computer;
     private int userScore;
     private int computerScore;
